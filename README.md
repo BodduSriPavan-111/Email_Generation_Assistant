@@ -1,7 +1,9 @@
 # Email Generation Assistant
 
-## Overview
 An LLM-powered Email Generation Assistant that generates emails across scenarios and evaluates them using dual-judge scoring.
+
+## Benchmark
+![plot](https://drive.google.com/uc?id=13BqGK0ct9JGME33TXqG-w5OgqZQNSwmW)
 
 ## Key Features
 - Dual-LLM generation (Mistral vs GPT)
