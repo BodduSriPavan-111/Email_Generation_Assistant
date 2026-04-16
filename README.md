@@ -24,7 +24,7 @@ pip install mistralai==1.9.11 groq==1.1.2 matplotlib==3.10.3
 
 ### Usage
 
-1. Generate emails (Mistral + Qwen)
+1. Generate emails (Mistral + GPT)
 ```py
 python src/generate.py
 ```
