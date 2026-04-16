@@ -5,6 +5,8 @@ An LLM-powered Email Generation Assistant that generates emails across scenarios
 ## Benchmark
 ![plot](https://drive.google.com/uc?id=13BqGK0ct9JGME33TXqG-w5OgqZQNSwmW)
 
+GPT <b>(81.33 %)</b> outperformed Mistral <b>(80.42 %)</b>
+
 ## Key Features
 - Dual-LLM generation (Mistral vs GPT)
 - Few-shot + role-based prompt design
