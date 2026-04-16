@@ -1,0 +1,11 @@
+{
+  "mistral_avg": 0.925,
+  "gpt_avg": 0.9333,
+  "best_model": "gpt",
+  "metric_definitions": {
+    "Fact Recall": "Measures inclusion of all input facts",
+    "Tone Score": "Measures alignment with requested tone",
+    "Fluency Score": "Measures grammar and readability",
+    "Composite": "Average of all three metrics"
+  }
+}
